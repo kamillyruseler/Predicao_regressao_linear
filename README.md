@@ -21,13 +21,14 @@ Correlação moderada, mostrando que há uma certa relação entre os dados!
 
 
 ### Expectativa de vida x Escolaridade
-![image](https://github.com/kamillyruseler/Predicao_regressao_linear/assets/107367118/6702e194-4afe-4eaf-b437-053db155d316)
+
+![image](https://github.com/kamillyruseler/Predicao_regressao_linear/assets/107367118/5659c5b4-e4f8-49ee-823e-d27ab2eddc3a)
 
 r  = 0.72763 
 Correlação forte!
 IC(95%) = (0.7040 a 0.7495)
 
-![Uploading image.png…]()
+![image](https://github.com/kamillyruseler/Predicao_regressao_linear/assets/107367118/6702e194-4afe-4eaf-b437-053db155d316)
 Residual standard error = 6.036
 Isso é um indicativo que o modelo não é adequado para representar os valores!
 
